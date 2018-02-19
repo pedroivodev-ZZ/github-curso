@@ -7,3 +7,6 @@ Repositório teste para mostrar como o Git funciona.
 Saiba mais em...
 
 Gostou do curso? Colabore doando!
+
+
+Teste já no Github
